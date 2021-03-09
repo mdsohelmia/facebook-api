@@ -1,1 +1,3 @@
-# Composer
+# Composer cli
+
+`` composer install ``
